@@ -1,1 +1,107 @@
-([[This file was protected with MoonSec V3 by Federal#9999]]):gsub('.+', (function(a) _yXACaAQMKnlL = a; end)); return(function(r,...)local a;local h;local t;local o;local d;local f;local e=24915;local n=0;local l={};while n<788 do n=n+1;while n<0x33f and e%0x16d6<0xb6b do n=n+1 e=(e-143)%28634 local c=n+e if(e%0x8ac)>0x456 then e=(e+0xe)%0x192a while n<0x322 and e%0x30c4<0x1862 do n=n+1 e=(e-11)%11334 local d=n+e if(e%0x1786)>=0xbc3 then e=(e-0x121)%0x2da0 local e=54058 if not l[e]then l[e]=0x1 h=tonumber;end elseif e%2~=0 then e=(e+0xce)%0x8303 local e=12038 if not l[e]then l[e]=0x1 t=getfenv and getfenv();end else e=(e+0x2ca)%0x8ad4 n=n+1 local e=20065 if not l[e]then l[e]=0x1 t=(not t)and _ENV or t;end end end elseif e%2~=0 then e=(e*0x3f8)%0xf19 while n<0x358 and e%0x438e<0x21c7 do n=n+1 e=(e+245)%38340 local c=n+e if(e%0x132a)>0x995 then e=(e+0x9c)%0x6c91 local e=39529 if not l[e]then l[e]=0x1 a="\4\8\116\111\110\117\109\98\101\114\77\110\89\82\95\114\113\109\0\6\115\116\114\105\110\103\4\99\104\97\114\107\90\68\121\108\66\75\111\0\6\115\116\114\105\110\103\3\115\117\98\106\105\99\74\122\108\80\99\0\6\115\116\114\105\110\103\4\98\121\116\101\95\109\70\113\83\73\120\101\0\5\116\97\98\108\101\6\99\111\110\99\97\116\75\108\116\99\87\95\105\81\0\5\116\97\98\108\101\6\105\110\115\101\114\116\101\70\74\77\111\79\72\115\5";end elseif e%2~=0 then e=(e*0x2ba)%0x65f9 local e=22691 if not l[e]then l[e]=0x1 end else e=(e*0x1bc)%0x499d n=n+1 local e=8658 if not l[e]then l[e]=0x1 d=function(d)local e=0x01 local function l(n)e=e+n return d:sub(e-n,e-0x01)end while true do local n=l(0x01)if(n=="\5")then break end local e=f.byte(l(0x01))local e=l(e)if n=="\2"then e=o.MnYR_rqm(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then t[e]=function(n,e)return r(8,nil,r,e,n)end elseif n=="\4"then e=t[e]elseif n=="\0"then e=t[e][l(f.byte(l(0x01)))];end local n=l(0x08)o[n]=e end end end end end else e=(e*0x240)%0x1a49 n=n+1 while n<0x2b9 and e%0x46c2<0x2361 do n=n+1 e=(e-26)%2382 local t=n+e if(e%0x37ce)>0x1be7 then e=(e-0x164)%0x5b47 local e=20739 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e+0x1b5)%0xa1e2 local e=25678 if not l[e]then l[e]=0x1 f=string;end else e=(e-0x10f)%0x1e9c n=n+1 local e=28842 if not l[e]then l[e]=0x1 o={};end end end end end e=(e*761)%40296 end d(a);local n={};for e=0x0,0xff do local l=o.kZDylBKo(e);n[e]=l;n[l]=e;end local function c(e)return n[e];end local f=(function(f,r)local a,l=0x01,0x10 local n={{},{},{}}local t=-0x01 local e=0x01 local d=f while true do n[0x03][o.jicJzlPc(r,e,(function()e=a+e return e-0x01 end)())]=(function()t=t+0x01 return t end)()if t==(0x0f)then t=""l=0x000 break end end local t=#r while e<t+0x01 do n[0x02][l]=o.jicJzlPc(r,e,(function()e=a+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 o.eFJMoOHs(n[0x01],(c((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+d)%0x100)));d=f+d;end end return o.KltcW_iQ(n[0x01])end);d(f(1,".DhI{V4Bb173Op(g0{"));d(f(242,"7Csr!WA. TuFxeGDIGssTeuxF Feece. sDq^DCWsACCs!W3re.*Wu.eTAr !.x;xCxeGAD!eFIuCes!!.rGWrA94.CTTsusu.FuxGuexeG iHv!CssFCGe GxA..A s .TuuC!exrxWGAGrDADsDWs.C.srsD!CWe>xCGTWT.F FuAWeuG#GDClCADWsGrF!.!C!D C Ws rGFrFrePe.eeDuDWCACCstr rDW.!CW=WFTr W F xWxAexuG.DrCsCFsxDFsFr.!!!D.GAs GTx!uW eTeCG.N=DxDD=GrGCFsC!AA!yxCTWDuWTATxxeGWeTDsGxu Fur!re!DWGAuAD s TTeTCTDe!FWG GAk!uYFrr5sFruWsWT+  W xTxTFuFxCF.xFG DFeDcFhGrGe G AWAx.x.F FuCF FuuAe.er2rGmDWF x.!_WHWWA .xA.TF..T Tex FDFF uTuCWCWsurCreWxWuA A  uT. sTFxTAA. GDDCCsC!FDsG!sWrAC.s !.!TDT.F.FrFTGT r"));local e=(-19270+(function()local l,n=0,1;(function(l,e,n)e(e(n,l and e,n)and l(e,e,l),e(n,n,l)and l(e,n,e),n(n,n,l))end)(function(e,d,t)if l>321 then return e end l=l+1 n=(n+254)%48559 if(n%866)>=433 then return d else return e(e(e,d,t),e(e and e,d,d),e(t,e and d,t))end return d(e(e,t,t),d(t,e and e,t),d(t,t,d))end,function(t,e,d)if l>400 then return e end l=l+1 n=(n*885)%42932 if(n%654)<=327 then return e(d(e and t,t,d),t(e,t,t),d(t,e,t)and d(e,e,t and e))else return e end return e end,function(e,d,t)if l>430 then return e end l=l+1 n=(n-789)%21501 if(n%288)>144 then return t(t(e,d,t),e(t,t,d),e(d,e,t))else return e end return e end)return n;end)())local te=(getfenv)or(function()return _ENV end);local u=o.thFiWyHO or o.SYhmCaVx;local t=3;local d=2;local y=1;local c=4;local function le(b,...)local s=f(e,"^zOw#b; i+?EC}=JE ;FzRCS wO}}yiLwdwJN++iwz=wEz#z(z?}bEO=}C;C}wi?wP=n+e?CbJ7zE# wO#}O +O=} Owa imwp=n=#?ib+zw p;;z+CC b=m= iz#w?,?GbOJJE#bbBwC#;bz#ini O+=#iiJrC}+J#JJ=+wbbWw Mb;=wiU Ow++9;;wb=#+bbOJz?Czw}+i+w+=+;wz CS rOxziJ#?#b3} ?b;#?w+zm:EW;G iw#=#+s#wE?bJsJ1O?z; C=E ;+O#CiibOO=b+wwbJO+w#JJ=E#bbP=C#O=zwCJ }=J=bi=wE==+Jb J=?ObCZzC?;b=O+;#zJz+JibA#?J+}#zJ+?=zJzwEJ bOOCw bCw #O2}yix+ #zJ}?bJwE+bF-_Ef?} JOJ}= wwb=wiJwwZ#EOb+T=E  wJiC+ #O#}bi=zzJ#?#bO?n#-JD?9bLybEh;rznCz 3Ou}5+Owb=A+e#xJ ?Vb8*/CO ?z_C4 oOz}_ijw<Z;??#uJ!?(b;)NEz;!zwC, #wb}Si<we=;+!#zJ)?#;b-cE3;tz CL zOY}Qi}wK=d+3#zJ:?*b_zOC#;)zTC% OOn}ti0#O=++s#zJr?;b_,YEgiPzwCj zOn}zi7w#=0?Ob+Jy?wbo{bEp;1zvC& JO_}#iSwz=s+&#sJdE+br!zE>;#z6C_ jOe}biowM=q+n#AJO?1bvY}E);0zoCz 2Oz}Wifw}=/+M#:Jz?Yb(5:EP;UzDCU &");local n=0;o.Efkdybih(function()o.bWXzIAXh()n=n+1 end)local function e(e,l)if l then return n end;n=e+n;end local l,n,a=r(0,r,e,s,o._mFqSIxe);local function f()local l,n=o._mFqSIxe(s,e(1,3),e(5,6)+2);e(2);return(n*256)+l;end;local z=true;local z=0 local function k()local t=n();local e=n();local d=1;local t=(l(e,1,20)*(2^32))+t;local n=l(e,21,31);local e=((-1)^l(e,32));if(n==0)then if(t==z)then return e*0;else n=1;d=0;end;elseif(n==2047)then return(t==0)and(e*(1/0))or(e*(0/0));end;return o.AlkiUUyo(e,n-1023)*(d+(t/(2^52)));end;local _=n;local function p(n)local l;if(not n)then n=_();if(n==0)then return'';end;end;l=o.jicJzlPc(s,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+z),#l do e=e..o.jicJzlPc(l,n,n)end return e;end;local z=#o.mSSzMrbr(h('\49.\48'))~=1 local e=n;local function de(...)return{...},o.ddVjiFQq('#',...)end local function ee()local u={};local s={};local e={};local h={s,u,nil,e};local e=n()local r={}for t=1,e do local l=a();local e;if(l==0)then e=(a()~=#{});elseif(l==1)then local n=k();if z and o.VKoQOMQ_(o.mSSzMrbr(n),'.(\48+)$')then n=o.vXu_q_Wy(n);end e=n;elseif(l==3)then e=p();end;r[t]=e;end;for u=1,n()do local e=a();if(l(e,1,1)==0)then local o=l(e,2,3);local a=l(e,4,6);local e={f(),f(),nil,nil};if(o==0)then e[t]=f();e[c]=f();elseif(o==#{1})then e[t]=n();elseif(o==b[2])then e[t]=n()-(2^16)elseif(o==b[3])then e[t]=n()-(2^16)e[c]=f();end;if(l(a,1,1)==1)then e[d]=r[e[d]]end if(l(a,2,2)==1)then e[t]=r[e[t]]end if(l(a,3,3)==1)then e[c]=r[e[c]]end s[u]=e;end end;for e=1,n()do u[e-(#{1})]=ee();end;h[3]=a();return h;end;local function ne(l,e,n)local t=e;local t=n;return h(o.VKoQOMQ_(o.VKoQOMQ_(({o.Efkdybih(l)})[2],e),n))end local function le(p,e,h)local function ee(...)local f,j,z,m,b,n,a,_,s,k,g,l;local e=0;while-1<e do if e<3 then if e<1 then f=r(6,39,1,26,p);j=r(6,27,2,17,p);else if e>1 then n=-41;a=-1;else z=r(6,54,3,79,p);b=de m=0;end end else if 4>=e then if 0<e then for n=26,61 do if e~=3 then k=o.ddVjiFQq('#',...)-1;g={};break;end;_={};s={...};break;end;else _={};s={...};end else if e~=1 then repeat if 6~=e then l=r(7);break;end;e=-2;until true;else e=-2;end end end e=e+1;end;for e=0,k do if(e>=z)then _[e-z]=s[e+1];else l[e]=s[e+1];end;end;local e=k-z+1 local e;local o;local function r(...)while true do end end while true do if n<-40 then n=n+42 end e=f[n];o=e[y];if 11<o then if o<18 then if o>=15 then if 16<=o then if 17==o then n=e[t];else l[e[d]]=(e[t]~=0);end else if(l[e[d]]==e[c])then n=n+1;else n=e[t];end;end else if o<=12 then do return end;else if 12<o then for n=30,64 do if 14~=o then do return end;break;end;l(e[d],e[t]);break;end;else l(e[d],e[t]);end end end else if 21<=o then if o<=21 then n=e[t];else if o~=22 then l[e[d]]();else h[e[t]]=l[e[d]];end end else if o>18 then if 18<o then for n=15,62 do if o>19 then l[e[d]]=h[e[t]];break;end;l[e[d]]=(e[t]~=0);break;end;else l[e[d]]=(e[t]~=0);end else l[e[d]]();end end end else if 6>o then if 3<=o then if o>3 then if 2<=o then repeat if o~=4 then for o=0,3 do if 1<o then if-2<o then for r=43,74 do if 3>o then l[e[d]]=h[e[t]];n=n+1;e=f[n];break;end;if(l[e[d]]==e[c])then n=n+1;else n=e[t];end;break;end;else if(l[e[d]]==e[c])then n=n+1;else n=e[t];end;end else if o>=-3 then repeat if o>0 then h[e[t]]=l[e[d]];n=n+1;e=f[n];break;end;l[e[d]]=(e[t]~=0);n=n+1;e=f[n];until true;else h[e[t]]=l[e[d]];n=n+1;e=f[n];end end end break;end;local e=e[d]l[e]=l[e](u(l,e+1,a))until true;else for o=0,3 do if 1<o then if-2<o then for r=43,74 do if 3>o then l[e[d]]=h[e[t]];n=n+1;e=f[n];break;end;if(l[e[d]]==e[c])then n=n+1;else n=e[t];end;break;end;else if(l[e[d]]==e[c])then n=n+1;else n=e[t];end;end else if o>=-3 then repeat if o>0 then h[e[t]]=l[e[d]];n=n+1;e=f[n];break;end;l[e[d]]=(e[t]~=0);n=n+1;e=f[n];until true;else h[e[t]]=l[e[d]];n=n+1;e=f[n];end end end end else local e=e[d]l[e]=l[e](u(l,e+1,a))end else if 1>o then l(e[d],e[t]);else if 0<=o then for r=32,93 do if 2>o then if(l[e[d]]==e[c])then n=n+1;else n=e[t];end;break;end;local n=e[d]local t,e=b(l[n](u(l,n+1,e[t])))a=e+n-1 local e=0;for n=n,a do e=e+1;l[n]=t[e];end;break;end;else local n=e[d]local t,e=b(l[n](u(l,n+1,e[t])))a=e+n-1 local e=0;for n=n,a do e=e+1;l[n]=t[e];end;end end end else if 9>o then if o<7 then l[e[d]]=h[e[t]];else if 8==o then local d=e[d];local n=l[e[t]];l[d+1]=n;l[d]=n[e[c]];else h[e[t]]=l[e[d]];end end else if 10<=o then if 9<o then repeat if o>10 then local d=e[d];local n=l[e[t]];l[d+1]=n;l[d]=n[e[c]];break;end;local n=e[d]local t,e=b(l[n](u(l,n+1,e[t])))a=e+n-1 local e=0;for n=n,a do e=e+1;l[n]=t[e];end;until true;else local n=e[d]local t,e=b(l[n](u(l,n+1,e[t])))a=e+n-1 local e=0;for n=n,a do e=e+1;l[n]=t[e];end;end else local r,z,y,g,j,m,p,o,_,k,s;for o=0,6 do if 3>o then if o>=1 then if-2~=o then for a=28,90 do if 1~=o then o=0;while o>-1 do if 2>=o then if 1<=o then if o>=-2 then repeat if 1~=o then j=t;break;end;g=d;until true;else j=t;end else y=e;end else if o>=5 then if 2<=o then for e=26,60 do if o~=6 then l(p,m);break;end;o=-2;break;end;else l(p,m);end else if 1~=o then for e=14,76 do if 4~=o then m=y[j];break;end;p=y[g];break;end;else p=y[g];end end end o=o+1 end n=n+1;e=f[n];break;end;r=e[d];z=l[e[t]];l[r+1]=z;l[r]=z[e[c]];n=n+1;e=f[n];break;end;else r=e[d];z=l[e[t]];l[r+1]=z;l[r]=z[e[c]];n=n+1;e=f[n];end else l[e[d]]=h[e[t]];n=n+1;e=f[n];end else if 5<=o then if o~=6 then r=e[d]l[r]=l[r](u(l,r+1,a))n=n+1;e=f[n];else l[e[d]]();end else if 1<=o then repeat if 4>o then l[e[d]]=(e[t]~=0);n=n+1;e=f[n];break;end;r=e[d]_,k=b(l[r](u(l,r+1,e[t])))a=k+r-1 s=0;for e=r,a do s=s+1;l[e]=_[s];end;n=n+1;e=f[n];until true;else r=e[d]_,k=b(l[r](u(l,r+1,e[t])))a=k+r-1 s=0;for e=r,a do s=s+1;l[e]=_[s];end;n=n+1;e=f[n];end end end end end end end end n=1+n;end;end;return ee end;local d=0xff;local c={};local r=(1);local t='';(function(n)local l=n local f=0x00 local e=0x00 l={(function(t)if f>0x25 then return t end f=f+1 e=(e+0x6f1-t)%0xb return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x42);end return true end)'KSHoa'and l[0x2](0xfa+t))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x79);end return true end)'ZecJl'and l[0x3](t+0x3b9))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xc6);end return true end)'RPT_a'and l[0x1](t+0x131))or t end),(function(o)if f>0x2a then return o end f=f+1 e=(e+0x9cd-o)%0xe return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x82);c[r]=te();r=r+d;end return true end)'GwUSb'and l[0x1](0x185+o))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xb2);end return true end)'pwKRz'and l[0x3](o+0x2d2))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x1c);d[2]=(d[2]*(ne(function()c()end,u(t))-ne(d[1],u(t))))+1;c[r]={};d=d[2];r=r+d;end return true end)'EHKep'and l[0x2](o+0x7f))or o end),(function(a)if f>0x28 then return a end f=f+1 e=(e+0x12c9-a)%0x20 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x8);t='\37';d={function()d()end};t=t..'\100\43';end return true end)'mrRUE'and l[0x3](0x11e+a))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x87);t={t..'\58 a',t};c[r]=ee();r=r+((not o.MRpOtPep)and 1 or 0);t[1]='\58'..t[1];d[2]=0xff;end return true end)'zAnRy'and l[0x2](a+0x19d))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x20);end return true end)'ahrvf'and l[0x1](a+0x86))or a end)}l[0x3](0x2609)end){};local e=le(u(c));return e(...);end return le((function()local n={}local e=0x01;local l;if o.MRpOtPep then l=o.MRpOtPep(le)else l=''end if o.VKoQOMQ_(l,o.EWdnddoT)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,l,n,t,d,o)local o;if 4>e then if e>1 then if 3==e then do return l(1),l(4,d,t,n,l),l(5,d,t,n)end;else do return 16777216,65536,256 end;end else if e>-4 then for o=45,59 do if e>0 then do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return l(1),l(4,d,t,n,l),l(5,d,t,n)end;break;end;else do return function(l,e,n)if n then local e=(l/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(l%(e+e)>=e)and 1 or 0;end;end;end;end end else if 5>=e then if 4<e then local e=t;do return function()local n=l(n,e(e,e),e(e,e));e(1);return n;end;end;else local e=t;local f,r,t=d(2);do return function()local l,n,d,o=l(n,e(e,e),e(e,e)+3);e(4);return(o*f)+(d*r)+(n*t)+l;end;end;end else if 7<=e then if e~=6 then for l=49,92 do if 8~=e then do return setmetatable({},{['__\99\97\108\108']=function(e,l,t,d,n)if n then return e[n]elseif d then return e else e[l]=t end end})end break;end;do return n(e,nil,n);end break;end;else do return n(e,nil,n);end end else do return d[n]end;end end end end),...)
+-- XENOWARE FREE AUTOFARM
+
+local Server_Hop = true -- if this is deleted then it will auto set to false
+local Ghost_Coins = true -- if this is deleted then it will auto set to false
+
+
+-- obfuscate the rest below and add it as a loadstring so that the user can configure it remotely
+
+--// CONFIGURATION
+
+if Server_Hop == true then
+    local ServerHop = true
+elseif Server_Hop ~= true or Server_Hop == nil or not Server_Hop then
+    local ServerHop = false
+end
+
+if Ghost_Coins == true then
+    local GhostCoins = true
+elseif Ghost_Coins ~= true or Ghost_Coins == nil or not Ghost_Coins then
+    local GhostCoins = false
+end
+    
+
+--// SPECIFICATIONS
+
+local StabCooldown = false
+local HitCheck = game:GetService("Players").LocalPlayer:WaitForChild("PlayerScripts"):WaitForChild("localknifehandler"):WaitForChild("HitCheck")
+local AutofarmEnabled = true
+
+
+--// AUTOFARM 
+
+local XenowareFreeAutofarm = game:GetService("RunService").Heartbeat:Connect(function()
+    if AutofarmEnabled == true then
+           
+        -- TWEEN
+        if game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"):WaitForChild("ScreenGui"):WaitForChild("UI").Target.Visible and game.Workspace[game:GetService("Players").LocalPlayer.PlayerGui.ScreenGui.UI.Target.TargetText.Text] then -- if target frame visible and target exists
+            local AutofarmTween = game:GetService('TweenService'):Create(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart, TweenInfo.new(0,Enum.EasingStyle.Linear), {CFrame = game.Workspace[game:GetService("Players").LocalPlayer.PlayerGui.ScreenGui.UI.Target.TargetText.Text].HumanoidRootPart.CFrame * CFrame.new(-2 ,-2, 2)})
+            AutofarmTween:Play()
+        end   
+        
+        -- STAB
+        if StabCooldown == false and game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"):WaitForChild("ScreenGui"):WaitForChild("UI").Target.Visible and game.Workspace[game:GetService("Players").LocalPlayer.PlayerGui.ScreenGui.UI.Target.TargetText.Text] then
+            local TargetMagnitude = (game.Workspace[game:GetService("Players").LocalPlayer.PlayerGui.ScreenGui.UI.Target.TargetText.Text].HumanoidRootPart.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).magnitude
+            if TargetMagnitude <= 5 then -- checks player is within stab range
+                StabCooldown = true
+                game:GetService("Players").LocalPlayer.PlayerScripts.localknifehandler.HitCheck:Fire(game.Workspace[game:GetService("Players").LocalPlayer.PlayerGui.ScreenGui.UI.Target.TargetText.Text])
+                wait(0.8) -- do not change cooldown time or anticheat will kick you 
+                StabCooldown = false
+            end
+        end
+        
+        -- EQUIP KNIFE
+        if game:GetService("Players").LocalPlayer.Backpack.Knife then
+            game:GetService("Players").LocalPlayer.Character.Humanoid:EquipTool(game:GetService("Players").LocalPlayer.Backpack.Knife)
+        else
+            wait()
+        end  
+    end
+end)
+
+local XenowareFreeAutofarm = game:GetService("RunService").Heartbeat:Connect(function()
+    if AutofarmEnabled == true then
+        -- SET GRAVITY
+        if game:GetService("Workspace").Gravity ~= 20 then
+            game:GetService("Workspace").Gravity = 20
+        end
+        -- REMOVE LIMBS
+        if game:GetService("Players").LocalPlayer.Character['Left Leg'] and game:GetService("Players").LocalPlayer.Character['Right Leg'] and game:GetService("Players").LocalPlayer.Character['Left Arm'] then
+            game:GetService("Players").LocalPlayer.Character['Left Leg']:remove()
+            game:GetService("Players").LocalPlayer.Character['Right Leg']:remove()   
+            game:GetService("Players").LocalPlayer.Character['Left Arm']:remove()
+        end
+    elseif AutofarmEnabled == false then
+        game:GetService("Workspace").Gravity = 196.2
+    end
+end)
+
+local XenowareFreeAutofarm = game:GetService("RunService").Heartbeat:Connect(function()
+    if AutofarmEnabled == true and ServerHop == true then
+        -- SERVER HOP
+        local PlayersInGame = 0 
+        for i,v in pairs(game:GetService("Players"):GetDescendants()) do
+            if v:IsA("Player") then 
+               PlayersInGame = PlayersInGame + 1 
+            end
+        end
+        if PlayersInGame < 4 then
+            game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
+        end
+    end
+end)
+
+game:GetService("Players").LocalPlayer.CharacterAdded:connect(function()
+    if AutofarmEnabled == true and GhostCoins == true then
+        game:GetService("ReplicatedStorage").Remotes.RequestGhostSpawn:InvokeServer()
+        game:GetService("RunService").Heartbeat:connect(function()
+            for i,v in pairs(game:GetService("Workspace").GhostCoins:GetDescendants()) do
+                if v:IsA("TouchTransmitter") then
+                    firetouchinterest(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart, v.Parent, 0) 
+                    task.wait()
+                    firetouchinterest(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart, v.Parent, 1)
+                end
+            end
+        end)
+    end
+end)
